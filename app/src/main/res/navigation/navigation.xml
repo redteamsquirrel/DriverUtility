@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_sign_in">
+
+  <fragment
+      android:id="@+id/nav_sign_in"
+      android:name="net.mastery.driverutility.screens.SignInFragment"
+      android:label="@string/nav_sign_in" />
+
+  <fragment
+      android:id="@+id/nav_driver_list"
+      android:name="net.mastery.driverutility.screens.DriverListFragment"
+      android:label="@string/nav_driver_list" />
+
+</navigation>
