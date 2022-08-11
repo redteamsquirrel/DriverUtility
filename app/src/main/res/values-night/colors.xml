@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="colorPrimary">#f1f1f1</color>
+  <color name="colorPrimaryDark">#f1f1f1</color>
+  <color name="colorAccent">#1890FF</color>
+  <color name="colorTextSecondary">#949494</color>
+  <color name="colorTitleBackground">#f4f4f4</color>
+
+  <color name="submitBackgroundButton">#FFFFFF</color>
+  <color name="submitTextButton">#222222</color>
+
+  <color name="backgroundDarkLight">#FFFFFF</color>
+  <color name="textDarkLight">#000000</color>
+
+  <color name="input_invalid">#B5102E</color>
+  <color name="input_valid">#33A52F</color>
+
+</resources>

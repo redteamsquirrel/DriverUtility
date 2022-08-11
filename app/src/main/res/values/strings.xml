@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Driver Utility</string>
+
+    <string name="nav_sign_in">Sign In</string>
+    <string name="nav_driver_list">Driver List</string>
+    <string name="sign_in_instructions">Please sign in with valid credentials.</string>
+    <string name="sign_in_email">Email</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_login">Sign In</string>
+    <string name="sign_in_enter_email">Please enter a valid email</string>
+    <string name="sign_in_enter_password">Please enter a password</string>
+    <string name="welcome">Welcome, %s!</string>
 </resources>
